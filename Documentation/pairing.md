@@ -6,7 +6,7 @@
 
 ## Подключение передатчика
 
-<img src="../Images/receiver connected.png" width="400" title="Фото подключённого передатчика.">
+<img src="../Images/receiver connected.png" width="600" title="Фото подключённого передатчика.">
 Ваш передатчик должен быть подключён к USB 2.0 порту на задней панели материнской платы при помощи удлинителя.
 
 ## Управление передатчиком
@@ -14,21 +14,21 @@
 > [!NOTE]
 > Для взаимодействия с передатчиком используется COM-порт. Для подключения к COM-порту можно использовать любой доступный инструмент (PuTTY, NRF Connect - Serial Terminal, Web интерфейсы и тд.)
 
-Перейдите на сайт [Веб-Последовательный терминал](https://webserialterminal.com "Link") и нажмите кнопку <b>Connect</b>
+Перейдите на сайт [Веб-Последовательный терминал](https://webserialterminal.com "Link") и нажмите кнопку <b>Connect.</b>
 
-<img src="../Images/connection.png" width="400" title="Фото подключение.">
+<img src="../Images/connection.png" width="600" title="Фото подключение.">
 
 Далее выберите передатчик в всплывающем окне.
-Для самодельного передатчика соответствующее название <b>"SlimeNRF Receiver ProMicro (COMxxx)"</b>
+Для самодельного передатчика соответствующее название <b>"SlimeNRF Receiver ProMicro (COMxxx)".</b>
 
-<img src="../Images/select receiver.png" width="400" title="Фото выбора передатчика.">
+<img src="../Images/select receiver.png" width="600" title="Фото выбора передатчика.">
 
-После подключения вам будет доступен терминал. В поле ввода напишите <b>pair</b> и нажмите <b>Send</b>
+После подключения вам будет доступен терминал. В поле ввода напишите <b>pair</b> и нажмите <b>Send.</b>
 
-<img src="../Images/receiver switched to pairing mode.png" width="400" title="Фото последовательного терминала.">
+<img src="../Images/receiver switched to pairing mode.png" width="600" title="Фото последовательного терминала.">
 
 Включите трекер и нажмите кнопку 3 раза, чтобы перевести трекер в режим сопряжения.
 
-<img src="../Images/tracker paired.png" width="400" title="Фото последовательного терминала.">
+<img src="../Images/tracker paired.png" width="600" title="Фото последовательного терминала.">
 
 <b>"New device registered"</b> - говорит об успешном подключении трекера. Проверьте, в SlimeVR Server должен появиться трекер.
