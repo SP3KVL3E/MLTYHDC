@@ -9,3 +9,4 @@
 ### Содержание
 
 - [Pairing — инструкция по сопряжению](./Documentation/pairing.md)
+- [Terms of use — условия использования](./Documentation/terms%20of%20use.md)
